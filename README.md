@@ -1,7 +1,7 @@
 # My Project List
 A list of project ideas for myself.
 
-## Table of Contents
+# Table of Contents
 1. [Web/Application Development](#webapplication-development)
     1. [Web Development]()
     2. [Mobile Apps]()
@@ -18,44 +18,44 @@ A list of project ideas for myself.
     2. [Photo and Video Editing]()
 7. [Help Open Source]() 
 
-## Web/Application Development
+# Web/Application Development
 
-### Web Development
-#### 1. Portfolio Website (Front-End Only)
-##### Description
+## Web Development
+### 1. Portfolio Website (Front-End Only)
+#### Description
 A basic portfolio website to practice basic front-end. I am thinking of making a little robot that greets the user using Blender and either putting it as a background video or use ThreeJS.
 
-##### Tech Stack: 
+#### Tech Stack: 
 - Front-End: HTML, CSS, Javascript
 - Others: Blender (Create little robot)
 
-##### Priority Stack: Very High
+#### Priority Stack: Very High
 
-##### Progress: Under development 
+#### Progress: Under development 
 
-#### 2. IoT Sensor Dashboard (Full-Stack)
-##### Description
+### 2. IoT Sensor Dashboard (Full-Stack)
+#### Description
 A sensor dashboard that shows my home sensors. 
 
 
-##### Tech Stack:
+#### Tech Stack:
 - Front-End: HTML, CSS, Javascript
 - Backend: AWS DynamoDB
 - API: AWS API Gateway, AWS Lambda
 - Hosting: Nginx, Linux
 - Others: ESP32 (Micro-controller), SGP30 (sensor), DHT11 (sensor)
 
-##### Priority
+#### Priority
 High
 
-##### Progress
+#### Progress
 Completed
 
-##### Showcase
+#### Showcase
 Demo [here](https://airqualitydashboard.jyylab.com) and repo [here](https://github.com/jamesyoung-15/IoT-Home-Sensor-Dashboard).
 
 
-#### Inventory Management
+### Inventory Management
 
 
 

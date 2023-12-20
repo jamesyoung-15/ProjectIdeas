@@ -22,15 +22,16 @@ A list of project ideas for myself.
 
 ### Web Development
 #### 1. Portfolio Website (Front-End Only)
+##### Description
 A basic portfolio website to practice basic front-end. I am thinking of making a little robot that greets the user using Blender and either putting it as a background video or use ThreeJS.
 
-Tech Stack: 
+##### Tech Stack: 
 - Front-End: HTML, CSS, Javascript
 - Others: Blender (Create little robot)
 
-Priority Stack: Very High
+##### Priority Stack: Very High
 
-Progress: Under development 
+##### Progress: Under development 
 
 #### 2. IoT Sensor Dashboard (Full-Stack)
 ##### Description

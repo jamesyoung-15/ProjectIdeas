@@ -21,7 +21,7 @@ A list of project ideas for myself.
 ## Web/Application Development
 
 ### Web Development
-#### Portfolio Website (Front-End Only)
+#### 1. Portfolio Website (Front-End Only)
 A basic portfolio website to practice basic front-end. I am thinking of making a little robot that greets the user using Blender and either putting it as a background video or use ThreeJS.
 
 Tech Stack: 
@@ -32,21 +32,26 @@ Priority Stack: Very High
 
 Progress: Under development 
 
-#### IoT Sensor Dashboard (Full-Stack)
+#### 2. IoT Sensor Dashboard (Full-Stack)
+##### Description
 A sensor dashboard that shows my home sensors. 
 
 
-Tech Stack:
+##### Tech Stack:
 - Front-End: HTML, CSS, Javascript
 - Backend: AWS DynamoDB
 - API: AWS API Gateway, AWS Lambda
-- Others: 
-    - Hardware: ESP32
-    - 
+- Hosting: Nginx, Linux
+- Others: ESP32 (Micro-controller), SGP30 (sensor), DHT11 (sensor)
 
-Priority: High
+##### Priority
+High
 
-Progress: Completed (Repo: []())
+##### Progress
+Completed
+
+##### Showcase
+Demo [here](https://airqualitydashboard.jyylab.com) and repo [here](https://github.com/jamesyoung-15/IoT-Home-Sensor-Dashboard).
 
 
 #### Inventory Management

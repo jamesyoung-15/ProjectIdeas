@@ -16,6 +16,7 @@ A list of project ideas for myself.
 6. [Other Fun Projects]()
     1. [Arts]()
     2. [Photo and Video Editing]()
+7. [Help Open Source]() 
 
 ## Web/Application Development
 

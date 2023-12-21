@@ -77,7 +77,7 @@ An inventory management system that keeps track of my stuff at home. Will try to
 - Priority: Medium
 - Progress: Not Started
 
-### 4. Connect 4 and Ultimate Tic-Tac-Toe (Bot and Multiplayer)
+### 4. Ultimate Tic-Tac-Toe and Connect-Four (Bot and Multiplayer)
 #### Level/Complexity
 Medium/High
 
@@ -109,7 +109,6 @@ Progress: Not Started
 
 ### 5. Other Related Project Ideas
 - Admin Dashboard
-- 
 
 ## Mobile Apps
 

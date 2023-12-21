@@ -167,7 +167,8 @@ Projects more focused on AI/Machine learning
 - Deep reinforcement learning in games (eg. Deep Q-Learning to play video-games)
 - Image classification with CNNs
 - NLP
-
+- Kaggle Learning Resources (eg. Beginner Competitions)
+- Implement another machine learning model to existing research
 
 # Other Fun Projects
 Other miscellanous projects that I may work on if I feel like it.
